@@ -1,0 +1,8 @@
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.Domain\bin\Debug\ExemploDDD.Domain.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.Domain\bin\Debug\ExemploDDD.Domain.pdb
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.Domain\bin\Debug\DTIDomain.Core.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.Domain\obj\Debug\ExemploDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.Domain\obj\Debug\ExemploDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.Domain\obj\Debug\ExemploDDD.Domain.csproj.CopyComplete
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.Domain\obj\Debug\ExemploDDD.Domain.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.Domain\obj\Debug\ExemploDDD.Domain.pdb

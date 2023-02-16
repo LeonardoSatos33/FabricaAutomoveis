@@ -1,0 +1,13 @@
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\obj\x86\Debug\ExemploDDD.DAO.csproj.AssemblyReference.cache
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\obj\x86\Debug\ExemploDDD.DAO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\bin\x86\Debug\ExemploDDD.DAO.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\bin\x86\Debug\ExemploDDD.DAO.pdb
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\bin\x86\Debug\ConexaoNTI.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\bin\x86\Debug\DTIDAO.Core.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\bin\x86\Debug\ExemploDDD.Domain.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\bin\x86\Debug\UtilDLL.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\bin\x86\Debug\DTIDomain.Core.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\bin\x86\Debug\ExemploDDD.Domain.pdb
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\obj\x86\Debug\ExemploDDD.DAO.csproj.CopyComplete
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\obj\x86\Debug\ExemploDDD.DAO.dll
+C:\Users\gabriel.dti\source\repos\AplicacaoTeste\ExemploDDD.DAO\obj\x86\Debug\ExemploDDD.DAO.pdb
